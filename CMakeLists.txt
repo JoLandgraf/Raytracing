@@ -9,6 +9,8 @@ set(SOURCE
     src/vec3.h
     src/color.h
     src/ray.h
+    src/hittable_list.h
+    src/hittable.h
 )
 
 
